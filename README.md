@@ -4,7 +4,7 @@
 > 给一个城市或菜系，输出一份可直接发的小红书 / IG / 朋友圈 / 微博 / 抖音内容方案。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Based on](https://img.shields.io/badge/Based%20on-travel--social--content-blue)](https://github.com/YOUR_USERNAME/food-social-content)
+[![Based on](https://img.shields.io/badge/Based%20on-travel--social--content-blue)](https://github.com/bethel-mark/food-social-content)
 [![No External API](https://img.shields.io/badge/API-None%20Required-brightgreen)](#-零依赖)
 [![Version: v1.0](https://img.shields.io/badge/Version-v1.0.0-orange)](docs/CHANGELOG.md)
 

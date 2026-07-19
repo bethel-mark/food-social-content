@@ -4,7 +4,7 @@
 
 ### ✨ v0.1.0 首发版
 
-完整仿照 [`travel-social-content`](https://github.com/YOUR_USERNAME/travel-social-content) 架构：
+完整仿照 [`travel-social-content`](https://github.com/bethel-mark/travel-social-content) 架构：
 
 **文件清单（18 个）**：
 
